@@ -1,9 +1,9 @@
 require 'faraday'
-require 'football_data/api/Resources/areas'
-require 'football_data/api/Resources/competitions'
-require 'football_data/api/Resources/matches'
-require 'football_data/api/Resources/players'
-require 'football_data/api/Resources/teams'
+require 'football_data/api/resources/areas'
+require 'football_data/api/resources/competitions'
+require 'football_data/api/resources/matches'
+require 'football_data/api/resources/players'
+require 'football_data/api/resources/teams'
 
 module FootballData
   module Api
